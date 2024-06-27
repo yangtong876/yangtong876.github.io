@@ -28,19 +28,13 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/TOC_nanoimapct.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://pdf.sciencedirectassets.com/313695/1-s2.0-S2452074824X00038/1-s2.0-S2452074824000302/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEE8aCXVzLWVhc3QtMSJHMEUCID%2FW8H76cu566lA8yycwGXztKG7jedkbWiRzoeZPxAthAiEA5Kv1tdIuOGN7n6CsKNS5HHlm%2BieGpBBE%2FnjNn57KAOoqvAUI9%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDK39hcftB39G1yIhGiqQBVXJa1%2FmyAhtjAeIWRDpkiG38uVzCb%2B5jY3%2Bxi2W6%2FydXC57OOhiXRB2aZCt7WyjCPEsL7zejkA4H5KSitf89S1%2BvLXIBfwCPvjynVGSzyB1xXrhRk%2BXIxBVXfWjaRQMVV0g20ACyGA%2B9xNf5ebv%2F5HzwoVcUg%2FweaNBQ4L0S8hBRxL%2FFNyAPxFHjATjDqZiNsbSo3kfrq%2BHKO5FGlk6awDXoocBR8wcDFlXhlgT0cAQiqnZnRyAxA2bAywyPA5avJAisy26MdCVYY%2Bw2ZUeXfvvbnSbw5GO4dpbqaUWYxfao94eLSvdA6ZndDO0jZRlKwJGUBR4PvWPe3qAqEJwO9GFfDpnEWGWswTtnh8MLB0LbXAYmYeChfD6oLCkHYmBDYP4gHYi0k7uiwtY1tCBC%2B2L6z9bTHy9Md6PTJhr%2BaAi1D4wTNZ5w7BNFoHUCOTWrMGp1FliBu%2B0DoXBSg%2FdRJfhBtIXeaspFk9cOpHUH%2BmcJ%2FEphYUmIINFuipDNN6xtc77oPoKAcyXjy%2Ba1896Z%2FfV4yX3IFkFapSO4nBvq72%2FzKMXaYG9OUrsYVFENkDgs%2BNsF6O%2Fx%2FkWtZB%2Fgf9vPbXm3E0VCzX%2FHItk36o3KiyEJ%2FA%2Bgsvsjb%2BX56EstTbdC9N4XJ%2BVbt5n9n%2FNdDt%2BsvuSHrOSiRLaeCWNRJjuJeMY5CP%2FV5zMdD53Ut9AstbLpw8CgF%2BwDKMXGoIgWHbjq7TnqOG%2BRbAMzE5bQjWWJOchbGxmm4zFyfy9JQCUfQfrDsPVA%2F%2FmCQrOZEsesob5B5Dtu%2BbkTdS0mx%2BujG2uqVKkNBUkzjGn8bDcoYRiCvgf1zBU%2Fvd9cW07ba3PQ8ppHi64A3Ywt7SfOE13GDuCqlcvMMvK97MGOrEBL5i3jgOSpFWvATJxfNOwzblwPoXJDMiXIsE9SjHjgII179clbQsvtFEpXDxhh3skdsxaUSut2SJqE%2BRhWs0Mwscvr1CEeZhw60Nub1odwJUnKxfY57WKQq%2BCA3MbKfKChGaXZt6o%2FV9C1aV6VmUv7%2FbnCcph1VoAFa5FGBLmSvcNgUTsO%2B5wWvWCQt99IJWfM85x2tKyp%2FMLQbRatp5fTU9HFtWv3jRWhplAs25q9Lxb&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240627T235745Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTY72PUG34U%2F20240627%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4e32a372c369979ccf07a25a482bb6666794730074421cd65f2e508a004d6187&hash=2a6569de51bbf2728f5de00c5d7beccb96e02fc104e0d1ad3efedc901057e746&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2452074824000302&tid=spdf-bcab0cab-5a18-4841-830f-a56525e5aad4&sid=055b7c247c0a554dde0973c73d41af716735gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=01075c5e065f59565c&rr=89a96195ec944bcb&cc=ca))
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tong Yang**, Bernd Nowack
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 
