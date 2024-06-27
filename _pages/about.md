@@ -59,7 +59,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 - *2016.09 - 2019.03*, MsC in environmental science, ETH Zurich, Human Health, Nutrition & Environment.
 - *2012.09 - 2016.06*, BsC in environmental science, Renmin University of China.
 
-# 💬 Invited Talks
+# 💬 Invited Talks and Lectures
 Lectures:
 3. University of Toronto, 8th Feb 2024. Host: Prof. Hui Peng, “Microplastics from synthetic textiles: release and formation”, ENV452.
 2. Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
@@ -74,5 +74,31 @@ Seminars:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Conference presentations
+
+9. Poster Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA. Fort Worth, Texas, USA. Travel Grant
+8. Oral Presentation. L.Wang & T.Yang., Oct 2024. “Critical Evaluation and Meta-analysis of Per- and Polyfluoroalkyl Substances (PFASs) Ecotoxicological Data in Freshwater Species, Fort Worth, Texas, USA. 
+7. Oral Presentation. T. Yang et al., Aug 2024. “Reconciliation of the Origin of Nanoplastics and Their Characteristics” ACS Fall 2024. Denver, Colorado, USA.
+6. Oral Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA.
+5. Oral Presentation. T. Yang et al., May 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles”. Annual Meeting of the Fiber Society. Greensboro, North Carolina, USA.
+4. Poster Presentation. T. Yang et al., Nov 2023. “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles.” SETAC North America 44th Annual Meeting. Louisville, Kentucky, USA. 
+3. Oral Presentation. T. Yang et al., May 2021. “Characterization of nanoplastics released during washing and abrasion of polyester textiles”. SETAC Europe 31st Annual Meeting. Copenhagen, Denmark.
+2. Oral Presentation. T. Yang et al., Apr 2021. “A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems”. International Conference on Nanotoxicology (NANOTOX2021). In virtual. Bursary Award
+1. Poster Presentation. T. Yang et al., Aug 2019. “The Release of Microplastic Fibers during Washing of Polyester Textiles”, The 10th National Conference on Environmental Chemistry, Tianjin, China. (poster) Excellent Poster Prize
+
+# 👥 Collaborators
+| Name                  | Affiliation               | Relationships                         | Research areas                        |
+|-----------------------|---------------------------|---------------------------------------|---------------------------------------|
+| Prof. Bernd Nowack    | Empa                      | PhD supervisor/co-author              | Micro-/Nanoplastics                   |
+| Prof. Jinxia Liu      | McGill University         | Postdoc mentor/co-author              | Micro-/Nanoplastics, PFAS             |
+| Prof. Jim Nicell      | McGill University         | Postdoc mentor/co-author              | Micro-/Nanoplastics                   |
+| Dr. Zhanyun Wang      | Empa                      | Co-author/mentor                      | Micro-/Nanoplastics, Additives in plastics |
+| Prof. Miriam Diamond  | University of Toronto     | Co-author                             | PFAS                                  |
+| Prof. Denise Mitrano  | ETH Zurich                | Co-author/mentor                      | Micro-/Nanoplastics                   |
+| Prof. Hui Peng        | University of Toronto     | Co-author                             | PFAS                                  |
+| Prof. Kevin Wilkinson | University of Montreal    | Co-author                             | Micro-/Nanoplastics                   |
+| Dr. Andreas Thünemann | BAM, Germany              | Joint research project                | Micro-/Nanoplastics                   |
+| Prof. Emiel DenHartog | North Carolina State U    | Joint research project                | Textiles, microplastics               |
+| Prof. Wenxin Liu      | Peking University         | Co-author/co-supervision of student   | PFAS, material flow analysis          |
+| Prof. Mingliang Fang  | Fudan University          | Co-author/co-supervision of student   | Micro-/Nanoplastics                   |
+| Prof. Antonia Praetorius | University of Amsterdam | Co-author                             | Micro-/Nanoplastics                   |
