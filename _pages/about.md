@@ -45,7 +45,8 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 
 [Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles]
 
-**Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack
+**Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack 
+(https://https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ovMOKcIAAAAJ&citation_for_view=ovMOKcIAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
