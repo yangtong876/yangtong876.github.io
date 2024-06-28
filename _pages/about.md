@@ -19,7 +19,7 @@ redirect_from:
 
 Trained in environmental chemistry and modeling, with coursework in public health and epidemiology, Tong Yang specializes in exposure nanoscience using simulation experiments and characterization tools, and probabilistic environmental risk assessment of chemicals and pollutants. My main interest lies in exploring the health effects of emerging contaminants including micro-/nanoplastics and PFAS, leveraging experiments and AI-facilitated modeling approaches.
 
-I have authored 12 peer-reviewed articles on modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles with total <a href='https://scholar.google.com/citations?user=ovMOKcIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ovMOKcIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have authored 12 peer-reviewed articles on modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles
 
 
 
@@ -154,19 +154,3 @@ Seminars:
 2. Oral Presentation. T. Yang et al., Apr 2021. “A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems”. International Conference on Nanotoxicology (NANOTOX2021). In virtual. Bursary Award
 1. Poster Presentation. T. Yang et al., Aug 2019. “The Release of Microplastic Fibers during Washing of Polyester Textiles”, The 10th National Conference on Environmental Chemistry, Tianjin, China. (poster) Excellent Poster Prize
 
-# 👥 Collaborators
-| Name                  | Affiliation               | Relationships                         | Research areas                        |
-|-----------------------|---------------------------|---------------------------------------|---------------------------------------|
-| Prof. Bernd Nowack    | Empa                      | PhD supervisor/co-author              | Micro-/Nanoplastics                   |
-| Prof. Jinxia Liu      | McGill University         | Postdoc mentor/co-author              | Micro-/Nanoplastics, PFAS             |
-| Prof. Jim Nicell      | McGill University         | Postdoc mentor/co-author              | Micro-/Nanoplastics                   |
-| Dr. Zhanyun Wang      | Empa                      | Co-author/mentor                      | Micro-/Nanoplastics, Additives in plastics |
-| Prof. Miriam Diamond  | University of Toronto     | Co-author                             | PFAS                                  |
-| Prof. Denise Mitrano  | ETH Zurich                | Co-author/mentor                      | Micro-/Nanoplastics                   |
-| Prof. Hui Peng        | University of Toronto     | Co-author                             | PFAS                                  |
-| Prof. Kevin Wilkinson | University of Montreal    | Co-author                             | Micro-/Nanoplastics                   |
-| Dr. Andreas Thünemann | BAM, Germany              | Joint research project                | Micro-/Nanoplastics                   |
-| Prof. Emiel DenHartog | North Carolina State U    | Joint research project                | Textiles, microplastics               |
-| Prof. Wenxin Liu      | Peking University         | Co-author/co-supervision of student   | PFAS, material flow analysis          |
-| Prof. Mingliang Fang  | Fudan University          | Co-author/co-supervision of student   | Micro-/Nanoplastics                   |
-| Prof. Antonia Praetorius | University of Amsterdam | Co-author                             | Micro-/Nanoplastics                   |
