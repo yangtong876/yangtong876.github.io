@@ -19,7 +19,8 @@ redirect_from:
 
 Trained in environmental chemistry and modeling, with coursework in public health and epidemiology, Tong Yang specializes in exposure nanoscience using simulation experiments and characterization tools, and probabilistic environmental risk assessment of chemicals and pollutants. My main interest lies in exploring the health effects of emerging contaminants including micro-/nanoplastics and PFAS, leveraging experiments and AI-facilitated modeling approaches.
 
-I have authored 12 peer-reviewed articles on modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles.  <a href='https://scholar.google.com/citations?user=ovMOKcIAAAAJ'>
+I have authored 12 peer-reviewed articles on modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles with total <a href='https://scholar.google.com/citations?user=ovMOKcIAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=ovMOKcIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
 
 
 # 🔥 News
