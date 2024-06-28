@@ -108,6 +108,8 @@ Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 [Toward an ecotoxicological risk assessment of microplastics: Comparison of available hazard and exposure data in freshwaters](https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.4323)
 
 Adam, Véronique, **Tong Yang** and Bernd Nowack
+
+**Exceptional Papers in the Year 2019**, Journal of Environmental Toxicology and Chemistry
 </div>
 </div>
 
