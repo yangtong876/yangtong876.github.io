@@ -33,9 +33,9 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles] (https://doi.org/10.1016/j.impact.2024.100520)
+[Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles](https://www.sciencedirect.com/science/article/pii/S2452074824000302?via%3Dihub)
 
-**Tong Yang**, Bernd Nowack
+**Tong Yang** and Bernd Nowack
 </div>
 </div>
 
@@ -43,7 +43,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat Wat,2024</div><img src='images/TOC_Naturewater.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
      
-[Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles]
+[Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles](https://www.nature.com/articles/s44221-023-00191-5)
 
 **Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack
 </div>
@@ -53,7 +53,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN,2023</div><img src='images/TOC_STOTEN.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Formation of Microplastic Fibers and Fibrils during Abrasion of a Representative Set of 12 Polyester Textiles]
+[Formation of microplastic fibers and fibrils during abrasion of a representative set of 12 polyester textiles](https://www.sciencedirect.com/science/article/pii/S0048969722078615)
 
 **Tong Yang**, Manqi Gao, and Bernd Nowack
 </div>
@@ -63,7 +63,8 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2021</div><img src='images/TOC_ES&T1.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Characterization of Nanoplastics, Fibrils, and Microplastics Released during Washing and Abrasion of Polyester Textiles]
+[Characterization of Nanoplastics, Fibrils, and Microplastics Released during Washing and Abrasion of Polyester Textiles](https://pubs.acs.org/doi/full/10.1021/acs.est.1c04826))
+
 
 **Tong Yang**, Jialuo Luo, and Bernd Nowack
 </div>
@@ -73,7 +74,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2020</div><img src='images/TOC_ES&T2.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Systematic study of microplastic fiber release from 12 different polyester textiles during washing]
+[Systematic study of microplastic fiber release from 12 different polyester textiles during washing](https://pubs.acs.org/doi/abs/10.1021/acs.est.9b07395)
 
 Cai, Yaping, **Tong Yang**, Denise M. Mitrano, Manfred Heuberger, Rudolf Hufenus, and Bernd Nowack
 </div>
@@ -84,7 +85,7 @@ Cai, Yaping, **Tong Yang**, Denise M. Mitrano, Manfred Heuberger, Rudolf Hufenus
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHM,2023</div><img src='images/TOC_JHM.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Meta-analysis of the hazards of microplastics in freshwaters using species sensitivity distributions]
+[Meta-analysis of the hazards of microplastics in freshwaters using species sensitivity distributions](https://www.sciencedirect.com/science/article/abs/pii/S0304389423022033)
 
 Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 </div>
@@ -94,7 +95,7 @@ Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2020</div><img src='images/TOC_ET&C1.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems]
+[A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems](https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.4887)
 
 **Tong Yang** and Bernd Nowack
 </div>
@@ -104,7 +105,7 @@ Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2019</div><img src='images/TOC_ET&C2.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Toward an ecotoxicological risk assessment of microplastics: Comparison of available hazard and exposure data in freshwaters]
+[Toward an ecotoxicological risk assessment of microplastics: Comparison of available hazard and exposure data in freshwaters](https://setac.onlinelibrary.wiley.com/doi/full/10.1002/etc.4323)
 
 Adam, Véronique, **Tong Yang** and Bernd Nowack
 </div>
@@ -133,8 +134,8 @@ Adam, Véronique, **Tong Yang** and Bernd Nowack
 2. Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
 1. Renmin University of China, 28th Sep 2023. Host: Prof. Rong Cheng. “Advances in Environmental Science Studies”, master course. 
 
-5. North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  \| [\[video\]]([https://github.com](https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.999.0.0&vd_source=d7ce3160b1a722dc19f4a8c60cc02964)/)
-4. University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. \| [\[video\]]([https://github.com/](https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.788.recommend_more_video.-1&vd_source=d7ce3160b1a722dc19f4a8c60cc02964))
+5. North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  \| [\[video\]]((https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.999.0.0&vd_source=d7ce3160b1a722dc19f4a8c60cc02964)/)
+4. University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. \| [\[video\]]((https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.788.recommend_more_video.-1&vd_source=d7ce3160b1a722dc19f4a8c60cc02964))
 3. Utrecht University, 20-21st Nov 2023. Host: Prof. Bert Weckhuysen, “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles”, NWO Nanoplastics Symposium.
 2. Tsinghua University, 26th June 2023. Host: Prof. Deyi Hou, “Turning Visible to Invisible: Degradation of Plastics Might Not be A Perfect Solution” 
 1. Fudan University, 3rd June 2023. Host: Prof. Yanyi Xu. “Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”. 
