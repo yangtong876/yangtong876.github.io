@@ -54,7 +54,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 - *2016.09 - 2019.03*, MsC in environmental science, ETH Zurich, Human Health, Nutrition & Environment.
 - *2012.09 - 2016.06*, BsC in environmental science, Renmin University of China.
 
-# 💬 Invited Talks and Lectures
+# 💬 Invited Talks
 Lectures:
 3. University of Toronto, 8th Feb 2024. Host: Prof. Hui Peng, “Microplastics from synthetic textiles: release and formation”, ENV452.
 2. Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
