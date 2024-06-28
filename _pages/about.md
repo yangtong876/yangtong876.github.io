@@ -126,8 +126,8 @@ Adam, Véronique, **Tong Yang** and Bernd Nowack
 - *2012* International Scholarship, 20th International AIDS Conference, Australia                                      
 
 # 📖 Educations
-- *2019.04 - 2022.12*, PhD in environmental science, Empa, Swiss Federal Laboratories for Materials Science and Technology with Prof. Bernd Nowack (Degree awarded by ETH Zurich)
-- *2016.09 - 2019.03*, MsC in environmental science, ETH Zurich, Human Health, Nutrition & Environment.
+- *2019.04 - 2022.12*, PhD in environmental science, Empa, Swiss Federal Laboratories for Materials Science and Technology (Degree awarded by ETH Zurich) with Prof. Bernd Nowack.
+- *2016.09 - 2019.03*, MsC in environmental science (Human Health, Nutrition & Environment), ETH Zurich.
 - *2012.09 - 2016.06*, BsC in environmental science, Renmin University of China.
 
 # 💬 Invited Talks and Lectures
