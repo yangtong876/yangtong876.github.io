@@ -134,7 +134,6 @@ Adam, Véronique, **Tong Yang** and Bernd Nowack
 - University of Toronto, 8th Feb 2024. Host: Prof. Hui Peng, “Microplastics from synthetic textiles: release and formation”, ENV452.
 - Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
 - Renmin University of China, 28th Sep 2023. Host: Prof. Rong Cheng. “Advances in Environmental Science Studies”, master course. 
-</div>
 
 **Talks**
 
