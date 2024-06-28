@@ -19,7 +19,7 @@ redirect_from:
 
 Trained in environmental chemistry and modeling, with coursework in public health and epidemiology, I specialize in exposure nanoscience using simulation experiments and characterization tools, and probabilistic environmental risk assessment of chemicals and pollutants. My main interest lies in exploring the health effects of emerging contaminants including micro-/nanoplastics and PFAS, leveraging experiments and AI-facilitated modeling approaches.
 
-I have authored 12 peer-reviewed articles on modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles
+I have authored 12 peer-reviewed articles on the modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles
 
 
 
