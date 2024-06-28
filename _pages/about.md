@@ -134,8 +134,8 @@ Adam, Véronique, **Tong Yang** and Bernd Nowack
 2. Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
 1. Renmin University of China, 28th Sep 2023. Host: Prof. Rong Cheng. “Advances in Environmental Science Studies”, master course. 
 
-5. North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  \| [\[video\]]((https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.999.0.0&vd_source=d7ce3160b1a722dc19f4a8c60cc02964)/)
-4. University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. \| [\[video\]]((https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.788.recommend_more_video.-1&vd_source=d7ce3160b1a722dc19f4a8c60cc02964))
+5. North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  [Video](https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.788.recommend_more_video.-1)
+4. University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. [Video](https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.999.0.0)
 3. Utrecht University, 20-21st Nov 2023. Host: Prof. Bert Weckhuysen, “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles”, NWO Nanoplastics Symposium.
 2. Tsinghua University, 26th June 2023. Host: Prof. Deyi Hou, “Turning Visible to Invisible: Degradation of Plastics Might Not be A Perfect Solution” 
 1. Fudan University, 3rd June 2023. Host: Prof. Yanyi Xu. “Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”. 
