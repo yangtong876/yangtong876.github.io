@@ -28,7 +28,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 
 # 📝 Publications 
 Research interest 1: Formation and release of microplastic fibers (microfibers) and nanoplastics from synthetic textiles:
-#Paper1
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,7 +38,7 @@ Research interest 1: Formation and release of microplastic fibers (microfibers) 
 </div>
 </div>
 
-#paper2
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Water,2024</div><img src='images/TOC_Naturewater.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,8 +48,8 @@ Research interest 1: Formation and release of microplastic fibers (microfibers) 
 </div>
 </div>
 
-#paper3
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN,2023</div><img src='images/TOC_stoten.jpg' alt="sym" width="80%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN,2023</div><img src='images/TOC_STOTEN.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Formation of Microplastic Fibers and Fibrils during Abrasion of a Representative Set of 12 Polyester Textiles]
@@ -58,7 +58,7 @@ Research interest 1: Formation and release of microplastic fibers (microfibers) 
 </div>
 </div>
 
-#paper4
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2021</div><img src='images/TOC_ES&T.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +68,7 @@ Research interest 1: Formation and release of microplastic fibers (microfibers) 
 </div>
 </div>
 
-#paper5
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2020</div><img src='images/TOC_ES&T2.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -79,7 +79,7 @@ Cai, Yaping, **Tong Yang**, Denise M. Mitrano, Manfred Heuberger, Rudolf Hufenus
 </div>
 
 Research interest 2: Environmental risk and hazard assessment of emerging contaminants:
-#paper1
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHM,2023</div><img src='images/TOC_JHM.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +89,7 @@ Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 </div>
 </div>
 
-#paper2
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2020</div><img src='images/TOC_ET&C1.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -99,7 +99,7 @@ Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
 </div>
 </div>
 
-#paper3
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2019</div><img src='images/TOC_ET&C2.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
