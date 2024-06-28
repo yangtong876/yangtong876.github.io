@@ -23,17 +23,89 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 
 
 # 🔥 News
-- *2024.08.16-08.22* talk to me at ACS fall 2024, Denver, USA
+- *2024.08.16-08.22*: Talk to me at ACS Fall 2024, Denver, USA
 - *2025.02*: Open to a new position as a faculty or Postdoc Fellow
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="60%"></div></div>
+Research interest 1: Formation and release of microplastic fibers (microfibers) and nanoplastics from synthetic textiles:
+#Paper1
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles]
 
 **Tong Yang**, Bernd Nowack
+</div>
+</div>
+
+#paper2
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Water,2024</div><img src='images/TOC_Naturewater.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles]
+
+**Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack
+</div>
+</div>
+
+#paper3
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN,2023</div><img src='images/TOC_stoten.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Formation of Microplastic Fibers and Fibrils during Abrasion of a Representative Set of 12 Polyester Textiles]
+
+**Tong Yang**, Manqi Gao, and Bernd Nowack
+</div>
+</div>
+
+#paper4
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2021</div><img src='images/TOC_ES&T.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Characterization of Nanoplastics, Fibrils, and Microplastics Released during Washing and Abrasion of Polyester Textiles]
+
+**Tong Yang**, Jialuo Luo, and Bernd Nowack
+</div>
+</div>
+
+#paper5
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2020</div><img src='images/TOC_ES&T2.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Systematic study of microplastic fiber release from 12 different polyester textiles during washing]
+
+Cai, Yaping, **Tong Yang**, Denise M. Mitrano, Manfred Heuberger, Rudolf Hufenus, and Bernd Nowack
+</div>
+</div>
+
+Research interest 2: Environmental risk and hazard assessment of emerging contaminants:
+#paper1
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHM,2023</div><img src='images/TOC_JHM.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Meta-analysis of the hazards of microplastics in freshwaters using species sensitivity distributions]
+
+Xiaoying Cui, **Tong Yang**, Zhengyan Li, and Bernd Nowack
+</div>
+</div>
+
+#paper2
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2020</div><img src='images/TOC_ET&C1.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems]
+
+**Tong Yang** and Bernd Nowack
+</div>
+</div>
+
+#paper3
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ET&C,2019</div><img src='images/TOC_ET&C2.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward an ecotoxicological risk assessment of microplastics: Comparison of available hazard and exposure data in freshwaters]
+
+Adam, Véronique, **Tong Yang** and Bernd Nowack
 </div>
 </div>
 
