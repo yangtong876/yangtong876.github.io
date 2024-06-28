@@ -27,7 +27,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 - *2025.02*: Open to a new position as a faculty or Postdoc Fellow
 
 # 📝 Publications 
-Research interest 1: Formation and release of microplastic fibers (microfibers) and nanoplastics from synthetic textiles:
+**Research interest 1: Formation and release of microplastic fibers (microfibers) and nanoplastics from synthetic textiles:**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,7 @@ Research interest 1: Formation and release of microplastic fibers (microfibers) 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2021</div><img src='images/TOC_ES&T.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ES&T,2021</div><img src='images/TOC_ES&T1.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Characterization of Nanoplastics, Fibrils, and Microplastics Released during Washing and Abrasion of Polyester Textiles]
@@ -78,7 +78,7 @@ Cai, Yaping, **Tong Yang**, Denise M. Mitrano, Manfred Heuberger, Rudolf Hufenus
 </div>
 </div>
 
-Research interest 2: Environmental risk and hazard assessment of emerging contaminants:
+**Research interest 2: Environmental risk and hazard assessment of emerging contaminants:**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JHM,2023</div><img src='images/TOC_JHM.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
