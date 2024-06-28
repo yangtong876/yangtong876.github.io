@@ -40,14 +40,18 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Water,2024</div><img src='images/TOC_Naturewater.jpg' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles]
-
-**Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack 
-(https://cholar.google.com/citations?view_op=view_citation&hl=en&user=ovMOKcIAAAAJ&citation_for_view=ovMOKcIAAAAJ:ufrVoPGSRksC) <strong><span class='show_paper_citations' data='ovMOKcIAAAAJ:ufrVoPGSRksC'></span></strong>
-</div>
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Nature Water, 2024</div>
+            <img src='images/TOC_Naturewater.jpg' alt="sym" width="80%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ovMOKcIAAAAJ&citation_for_view=ovMOKcIAAAAJ:ufrVoPGSRksC)
+        **Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack
+        <strong><span class='show_paper_citations' data='ovMOKcIAAAAJ:ufrVoPGSRksC'></span></strong>
+    </div>
 </div>
 
 
