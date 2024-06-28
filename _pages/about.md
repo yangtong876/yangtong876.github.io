@@ -128,29 +128,33 @@ Adam, Véronique, **Tong Yang** and Bernd Nowack
 - *2016.09 - 2019.03*, MsC in environmental science, ETH Zurich, Human Health, Nutrition & Environment.
 - *2012.09 - 2016.06*, BsC in environmental science, Renmin University of China.
 
-# 💬 Invited Talks
+# 💬 Invited Talks and Lectures
+**Lectures** 
 
-3. University of Toronto, 8th Feb 2024. Host: Prof. Hui Peng, “Microplastics from synthetic textiles: release and formation”, ENV452.
-2. Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
-1. Renmin University of China, 28th Sep 2023. Host: Prof. Rong Cheng. “Advances in Environmental Science Studies”, master course. 
+- University of Toronto, 8th Feb 2024. Host: Prof. Hui Peng, “Microplastics from synthetic textiles: release and formation”, ENV452.
+- Concordia University, 5th Oct 2023. Host: Prof. Xianming Zhang, “From Exposure to Impact: Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”, CHEM498/650. 
+- Renmin University of China, 28th Sep 2023. Host: Prof. Rong Cheng. “Advances in Environmental Science Studies”, master course. 
+</div>
 
-5. North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  [Video](https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.788.recommend_more_video.-1)
-4. University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. [Video](https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.999.0.0)
-3. Utrecht University, 20-21st Nov 2023. Host: Prof. Bert Weckhuysen, “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles”, NWO Nanoplastics Symposium.
-2. Tsinghua University, 26th June 2023. Host: Prof. Deyi Hou, “Turning Visible to Invisible: Degradation of Plastics Might Not be A Perfect Solution” 
-1. Fudan University, 3rd June 2023. Host: Prof. Yanyi Xu. “Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”. 
+**Talks**
+
+- North Carolina State University, 22nd May, Host: Prof. Rong Yin, “Characterization of the primary and secondary micro-/nanoplastics released during washing, abrasion, and UV degradation of polyester textiles.”  [Video](https://www.bilibili.com/video/BV13T421q78k/?spm_id_from=333.788.recommend_more_video.-1)
+- University of Regina, 26th April. Host: Prof. Jinkai Xue, “Probabilistic Hazard Assessment of Emerging Contaminants: Case Studies on Micro-/Nanoplastics and PFAS”, CHEERS webinar. [Video](https://www.bilibili.com/video/BV1PC411H7d1/?spm_id_from=333.999.0.0)
+- Utrecht University, 20-21st Nov 2023. Host: Prof. Bert Weckhuysen, “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles”, NWO Nanoplastics Symposium.
+- Tsinghua University, 26th June 2023. Host: Prof. Deyi Hou, “Turning Visible to Invisible: Degradation of Plastics Might Not be A Perfect Solution” 
+- Fudan University, 3rd June 2023. Host: Prof. Yanyi Xu. “Probabilistic Environmental Risk Assessment of Micro- and Nanoplastics”. 
 
  
 
 # 💬 Conference presentations
 
-9. Poster Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA. Fort Worth, Texas, USA. Travel Grant
-8. Oral Presentation. L.Wang & T.Yang., Oct 2024. “Critical Evaluation and Meta-analysis of Per- and Polyfluoroalkyl Substances (PFASs) Ecotoxicological Data in Freshwater Species, Fort Worth, Texas, USA. 
-7. Oral Presentation. T. Yang et al., Aug 2024. “Reconciliation of the Origin of Nanoplastics and Their Characteristics” ACS Fall 2024. Denver, Colorado, USA.
-6. Oral Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA.
-5. Oral Presentation. T. Yang et al., May 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles”. Annual Meeting of the Fiber Society. Greensboro, North Carolina, USA.
-4. Poster Presentation. T. Yang et al., Nov 2023. “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles.” SETAC North America 44th Annual Meeting. Louisville, Kentucky, USA. 
-3. Oral Presentation. T. Yang et al., May 2021. “Characterization of nanoplastics released during washing and abrasion of polyester textiles”. SETAC Europe 31st Annual Meeting. Copenhagen, Denmark.
-2. Oral Presentation. T. Yang et al., Apr 2021. “A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems”. International Conference on Nanotoxicology (NANOTOX2021). In virtual. Bursary Award
-1. Poster Presentation. T. Yang et al., Aug 2019. “The Release of Microplastic Fibers during Washing of Polyester Textiles”, The 10th National Conference on Environmental Chemistry, Tianjin, China. (poster) Excellent Poster Prize
+- Oral Presentation. L.Wang & T.Yang., Oct 2024. “Critical Evaluation and Meta-analysis of Per- and Polyfluoroalkyl Substances (PFASs) Ecotoxicological Data in Freshwater Species, Fort Worth, Texas, USA. **Travel Grant**
+- Poster Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA. Fort Worth, Texas, USA. 
+- Oral Presentation. T. Yang et al., Aug 2024. “Reconciliation of the Origin of Nanoplastics and Their Characteristics” ACS Fall 2024. Denver, Colorado, USA.
+- Oral Presentation. T. Yang et al., Aug 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles” ACS Fall 2024. Denver, Colorado, USA.
+- Oral Presentation. T. Yang et al., May 2024. “Understanding the origin and chemical composition of submicron particles released during washing of polyester textiles”. Annual Meeting of the Fiber Society. Greensboro, North Carolina, USA.
+- Poster Presentation. T. Yang et al., Nov 2023. “Nanoplastics are only a Small Fraction: Origin and Release of Submicron Particles during Washing of 12 Polyester Textiles.” SETAC North America 44th Annual Meeting. Louisville, Kentucky, USA. 
+- Oral Presentation. T. Yang et al., May 2021. “Characterization of nanoplastics released during washing and abrasion of polyester textiles”. SETAC Europe 31st Annual Meeting. Copenhagen, Denmark.
+- Oral Presentation. T. Yang et al., Apr 2021. “A Meta‐analysis of Ecotoxicological Hazard Data for Nanoplastics in Marine and Freshwater Systems”. International Conference on Nanotoxicology (NANOTOX2021). In virtual. **Bursary Award**
+- Poster Presentation. T. Yang et al., Aug 2019. “The Release of Microplastic Fibers during Washing of Polyester Textiles”, The 10th National Conference on Environmental Chemistry, Tianjin, China. (poster) **Excellent Poster Prize**
 
