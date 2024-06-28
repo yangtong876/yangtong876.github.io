@@ -33,7 +33,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NanoImpact,2024</div><img src='images/TOC_nanoimapct.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles]
+[Formation of nanoparticles during accelerated UV degradation of fleece polyester textiles] (https://doi.org/10.1016/j.impact.2024.100520)
 
 **Tong Yang**, Bernd Nowack
 </div>
@@ -44,6 +44,7 @@ I have authored 12 peer-reviewed articles on modeling the environmental risk ass
 <div class='paper-box-text' markdown="1">
      
 [Oligomers are a major fraction of the released submicrometre particles released during washing of polyester textiles]
+
 **Tong Yang**, Yanghui Xu, Gang Liu, and Bernd Nowack
 </div>
 </div>
