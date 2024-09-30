@@ -24,8 +24,8 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.09.24*: Publication of my first paper on PFAS as corresponding author[Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species] (https://pubs.acs.org/doi/10.1021/acs.est.4c04818)
-  <img src='images/TOC_PFAS.jpg' alt="sym" width="80%"></div></div>
+- *2024.09.24*: Publication of my first paper on PFAS as corresponding author[Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species](https://pubs.acs.org/doi/10.1021/acs.est.4c04818) 
+  <img src='images/TOC_PFAS.jpg' alt="sym" width="80%">
   
 - *2024.08.16-08.22*: Talk to me at ACS Fall 2024, Denver, USA
 - *2025.02*: Open to a new position as a faculty or Postdoc Fellow
