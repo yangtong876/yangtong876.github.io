@@ -29,6 +29,8 @@ redirect_from:
   
 - *2024.08.16-08.22*: Talk to me at ACS Fall 2024, Denver, USA
 - *2025.02*: Open to a new position as a faculty or Postdoc Fellow
+- *2024.05*: Visit to NCSU Wilson College of Textile
+<img src='images/NCSU1.jpg' alt="sym" width="80%"> <img src='images/NCSU2.jpg' alt="sym" width="80%">
 
 # 📝 Publications 
 **Research interest 1: Formation and release of microplastic fibers (microfibers) and nanoplastics from synthetic textiles:**
