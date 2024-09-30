@@ -28,7 +28,7 @@ redirect_from:
   <img src='images/TOC_PFAS.jpg' alt="sym" width="80%">
   
 - *2024.08.16-08.22*: Talk to me at ACS Fall 2024, Denver, USA
-- *2025.02*: Open to a new position as a faculty or Postdoc Fellow
+
 - *2024.05*: Visit to NCSU Wilson College of Textile
 <img src='images/NCSU1.jpg' alt="sym" width="80%"> <img src='images/NCSU2.jpg' alt="sym" width="80%">
 
