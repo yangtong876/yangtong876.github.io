@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-  Trained in environmental chemistry and modeling, with coursework in public health and epidemiology, I specialize in exposure nanoscience using simulation experiments and characterization tools, and probabilistic environmental risk assessment of chemicals and pollutants. My main interest lies in exploring the health effects of emerging contaminants including micro-/nanoplastics and PFAS, leveraging experiments and AI-facilitated modeling approaches.
+During my PhD in Prof. Bernd Nowack’s lab at Empa, I investigated the environmental risks of micro- and nanoplastics through both experimental research and modeling approaches. I began with a comprehensive meta-analysis of nanoplastic ecotoxicity across freshwater and marine species (Yang et al., 2020, ET&C). I later published the first study on nanoplastic release from synthetic textiles (Yang et al., 2022, ES&T), followed by research that characterized microplastic fibers generated from fabric abrasion, emphasizing the potential health risks posed by their release into indoor air (Yang et al., 2023, STOTEN). Most recently, I identified the origin and chemical composition of submicron particles, advancing the understanding of nanoplastics formation (Yang et al., 2024, Nature Water). These research accomplishments not only expanded knowledge in the field but also enabled me to secure a PostdocMobility fellowship (two years, 112 k Swiss francs) from the Swiss National Science Foundation.
 
-  I have authored 12 peer-reviewed articles on the modeling the environmental risk assessment of micro- and nanoplastics and experiments to characterize micro and nanoplastics released during the use of synthetic textiles
+At McGill University, I have expanded my research to investigate the release of nanoplastics from plastic food packaging, while also supervising a PhD student’s project on the ecotoxicity of PFAS in freshwater ecosystems (Wang & Yang et al., 2024 ES&T). This supervisory experience, coupled with my roles as a guest lecturer at institutions such as the University of Toronto, has strengthened my leadership skills and deepened my commitment to mentoring and guiding early-career scientists. 
+
+My future research vision centers on investigating the sources, release mechanisms, environmental behavior, and toxicity of emerging contaminants such as petrochemical-based plastics and PFAS, as well as alternative materials like water-soluble polymers and biodegradable plastics.
 
 
 
