@@ -23,7 +23,7 @@ I recently joined Harvard University as a Postdoc researcher with Dr. Peng Gao. 
 
 # 🔥 News
 - *2025.05.28*: Invited to talk at a webinar organized by TMC--the Microfiber Consortium on [the fiber fragmentation and release into the environment] (https://www.youtube.com/watch?v=MS-dTMXmiXc&ab_channel=TheMicrofibreConsortium)
- <img src='images/Fibertalk.jpg' alt="sym" width="80%">
+ <img src='images/fibertalk.jpg' alt="sym" width="80%">
  
 - *2024.09.24*: Publication of my first paper on PFAS as corresponding author [Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species](https://pubs.acs.org/doi/10.1021/acs.est.4c04818) 
   <img src='images/TOC_PFAS.jpg' alt="sym" width="80%">
