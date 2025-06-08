@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Yang "
   avatar           : "images/photo.jpg"
-  bio              : "is a Postdoc researcher (funded by Swiss National Science Fundation) working at McGill University"
-  location         : "Montreal, Canada"
+  bio              : "is a Postdoctoral Researcher working at Harvard University in Gao lab, Department of Environmental Health"
+  location         : "Boston, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ovMOKcIAAAAJ"
-  email            : "tong.yang2@mail.mcgill.ca"
+  email            : "tongyang@hsph.harvard.edu"
   researchgate     : "https://www.researchgate.net/profile/Tong-Yang-39"
   uri              :
   bitbucket        :
