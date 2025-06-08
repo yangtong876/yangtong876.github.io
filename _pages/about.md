@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-During my PhD in Prof. Bernd Nowack’s lab at Empa, I investigated the environmental risks of micro- and nanoplastics through both experimental research and modeling approaches. I began with a comprehensive meta-analysis of nanoplastic ecotoxicity across freshwater and marine species (Yang et al., 2020, ET&C). I later published the first study on nanoplastic release from synthetic textiles (Yang et al., 2022, ES&T), followed by research that characterized microplastic fibers generated from fabric abrasion, emphasizing the potential health risks posed by their release into indoor air (Yang et al., 2023, STOTEN). Most recently, I identified the origin and chemical composition of submicron particles, advancing the understanding of nanoplastics formation (Yang et al., 2024, Nature Water). These research accomplishments not only expanded knowledge in the field but also enabled me to secure a PostdocMobility fellowship (two years, 112 k Swiss francs) from the Swiss National Science Foundation.
-
-At McGill University, I have expanded my research to investigate the release of nanoplastics from plastic food packaging, while also supervising a PhD student’s project on the ecotoxicity of PFAS in freshwater ecosystems (Wang & Yang et al., 2024 ES&T). This supervisory experience, coupled with my roles as a guest lecturer at institutions such as the University of Toronto, has strengthened my leadership skills and deepened my commitment to mentoring and guiding early-career scientists. 
-
-My future research vision centers on investigating the sources, release mechanisms, environmental behavior, and toxicity of emerging contaminants such as petrochemical-based plastics and PFAS, as well as alternative materials like water-soluble polymers and biodegradable plastics.
+I recently joined Harvard University as a Postdoc researcher with Dr. Peng Gao. Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at McGill University (2023–2025), working with PFAS expert Prof. Jinxia Liu. My PhD at Empa with Prof. Bernd Nowack focused on micro- and nanoplastics, including a meta-analysis of nanoplastic ecotoxicity (Yang et al., 2020, ET&C), release from textiles (2022, ES&T), fiber abrasion and indoor air risks (2023, STOTEN), and chemical characterization of submicron particles (2024, Nature Water). At McGill, I studied nanoplastic release from food packaging and co-supervised a PFAS ecotoxicity project (Wang & Yang et al., 2024, ES&T). These efforts led to a 112k CHF PostdocMobility fellowship. At Harvard, I’m developing Py-GC-MS methods to detect nanoplastics in biological samples and distinguish them from biological matter. My research explores the sources, behavior, and toxicity of plastics, PFAS, and emerging alternatives such as water-soluble and biodegradable polymers.
 
 
 
 # 🔥 News
+- *2025.05.28*: Invited to talk at a webinar organized by TMC--the Microfiber Consortium on [the fiber fragmentation and release into the environment] (https://www.youtube.com/watch?v=MS-dTMXmiXc&ab_channel=TheMicrofibreConsortium)
+ <img src='images/Fibertalk.jpg' alt="sym" width="80%"
 - *2024.09.24*: Publication of my first paper on PFAS as corresponding author[Critical Evaluation and Meta-Analysis of Ecotoxicological Data on Per- and Polyfluoroalkyl Substances (PFAS) in Freshwater Species](https://pubs.acs.org/doi/10.1021/acs.est.4c04818) 
   <img src='images/TOC_PFAS.jpg' alt="sym" width="80%">
   
