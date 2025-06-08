@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I recently joined Harvard University as a Postdoc researcher with Dr. Peng Gao. Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at McGill University (2023–2025), working with PFAS expert Prof. Jinxia Liu. My PhD at Empa with Prof. Bernd Nowack focused on micro- and nanoplastics, including a meta-analysis of nanoplastic ecotoxicity (Yang et al., 2020, ET&C), release from textiles (2022, ES&T), fiber abrasion and indoor air risks (2023, STOTEN), and chemical characterization of submicron particles (2024, Nature Water). At McGill, I studied nanoplastic release from food packaging and co-supervised a PFAS ecotoxicity project (Wang & Yang et al., 2024, ES&T). These efforts led to a 112k CHF PostdocMobility fellowship. At Harvard, I’m developing Py-GC-MS methods to detect nanoplastics in biological samples and distinguish them from biological matter. My research explores the sources, behavior, and toxicity of plastics, PFAS, and emerging alternatives such as water-soluble and biodegradable polymers.
+I recently joined Harvard University as a Postdoc researcher with Dr. Peng Gao. Previously, I was a Swiss National Science Foundation Postdoctoral Fellow at McGill University (2023–2025), working with PFAS expert Prof. Jinxia Liu. My PhD at Empa with Prof. Bernd Nowack focused on micro- and nanoplastics, including a meta-analysis of nanoplastic ecotoxicity (Yang et al., 2020, ET&C), release from textiles (2022, ES&T), fiber abrasion and indoor air risks (2023, STOTEN), and chemical characterization of submicron particles (2024, Nature Water). These efforts led to a 112k CHF PostdocMobility fellowship. At McGill, I studied nanoplastic release from food packaging and co-supervised a PFAS ecotoxicity project (Wang & Yang et al., 2024, ES&T). 
+
+At Harvard, I’m developing Py-GC-MS methods to detect nanoplastics in biological samples and distinguish them from biological matter. My research explores the sources, behavior, and toxicity of plastics, PFAS, and emerging alternatives such as water-soluble and biodegradable polymers.
 
 
 
