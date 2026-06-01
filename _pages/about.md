@@ -25,7 +25,7 @@ At Harvard, I’m developing Py-GC-MS methods to detect nanoplastics in biologic
 
 # 🔥 News
 - *2026.05.14*: Read our new paper on the [Diverse Origins and Chemical Complexity of Nanoplastics](https://www.nature.com/articles/s41565-026-02168-3) published on Nature Nanotechnology
--  <img src='images/natnano.jpg' alt="sym" width="60%">
+-  <img src='images/natnano.png' alt="sym" width="60%">
 - *2025.05.28*: Invited to talk at a webinar organized by TMC--the Microfiber Consortium on [the fiber fragmentation and release into the environment](https://www.youtube.com/watch?v=MS-dTMXmiXc&ab_channel=TheMicrofibreConsortium)
 
  <img src='images/fibertalk.jpg' alt="sym" width="60%">
