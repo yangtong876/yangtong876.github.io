@@ -24,6 +24,8 @@ At Harvard, I’m developing Py-GC-MS methods to detect nanoplastics in biologic
 
 
 # 🔥 News
+- *2026.05.14*: I am attending as a speaker for the [AMI Plastics Agricultural Film and Plastics, July 14-15, 2026, Houston, TX, USA](https://www.ami-events.com/event/d1c4686e-d667-4fd4-b32f-b881a2933f5d/agenda?RefId=Website_AMI) Meet me and discuss the envrionmental risk of biodegradable mulch films and how to design the next generation of mulch films.
+-  <img src='images/film.png' alt="sym" width="60%">
 - *2026.05.14*: Read our new paper on the [Diverse Origins and Chemical Complexity of Nanoplastics](https://www.nature.com/articles/s41565-026-02168-3) published on Nature Nanotechnology
 -  <img src='images/natnano.png' alt="sym" width="60%">
 - *2025.05.28*: Invited to talk at a webinar organized by TMC--the Microfiber Consortium on [the fiber fragmentation and release into the environment](https://www.youtube.com/watch?v=MS-dTMXmiXc&ab_channel=TheMicrofibreConsortium)
